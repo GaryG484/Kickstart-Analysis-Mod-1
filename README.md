@@ -1,2 +1,2 @@
-# Kickstart-Analysis-Mod-1
-Module 1: preforming analysis of Kickstarter data.
+# An analysis of Kickstart campaigns.
+Performing analysis of Kickstarter data for theaters.

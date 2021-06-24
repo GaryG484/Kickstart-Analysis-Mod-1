@@ -9,10 +9,17 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-##### I created a pivot table that included how many campaigns failed, succeeded, or were canceled and then broke that data down by the months it happened in. What I found was that the number of plays that tend to be canceled is consistent from month to month.  The failed plays only seem to change based on how many total campaigns for funding there are in any given month. The only interesting conclusion that this pivot table does show us is that there is a much higher rate of campaigns successfully being funded starting in May and it slowly tapers off until around Aug where it goes back to almost exactly following the same line as the failed plays. This leads me to believe the best chance a campaign has for being funded is by starting it in May. 
+##### I created the pivot table shown below that includes how many campaigns failed, succeeded, or were canceled and then broke that data down by the months it happened in. What I found was that the number of plays that tend to be canceled is consistent from month to month.  The failed plays only seem to change based on how many total campaigns for funding there are in any given month. The only interesting conclusion that this pivot table does show us is that there is a much higher rate of campaigns successfully being funded starting in May and it slowly tapers off until around Aug where it goes back to almost exactly following the same line as the failed plays. This leads me to believe the best chance a campaign has for being funded is by starting it in May.
+
+
+![alt text](https://github.com/GaryG484/Kickstart-Analysis-Mod-1/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
-##### Utilizing a line graph, I charted what percentage of Kickstarter campaigns succeeded, failed, or were canceled based on their initial funding goal. The result is two perfectly symmetrically mirrored lines. What this suggests is that the funding goal is not an indicator of success or failure for a campaign. As the numbers go back and forth, I would suggest that there is another factor that is not included in this data that makes them so perfectly opposed. 
+##### Utilizing the line graph shown below, I charted what percentage of Kickstarter campaigns succeeded, failed, or were canceled based on their initial funding goal. The result is two perfectly symmetrically mirrored lines. What this suggests is that the funding goal is not an indicator of success or failure for a campaign. As the numbers go back and forth, I would suggest that there is another factor that is not included in this data that makes them so perfectly opposed. 
+
+
+![alt text](https://github.com/GaryG484/Kickstart-Analysis-Mod-1/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Challenges and Difficulties Encountered
 ##### The raw data I had to work with on the Kickstarter campaigns included information on 4115 different dramatizations with 14 facts for each play, film, and televisions series. That is a total of 57,610 data points that I started out with. The first challenge I was presented was cleaning this data so that only the data points that are relevant to my project are being utilized when I started analyzing the information. By creating more columns and breaking down the data I needed I turned those 57,510 data points into 86,415. This might seem detrimental but by separating the data into other columns I was able to use only the specific data I needed to make my conclusions on how correlated campaign success is to initial funding goals and its launch date. By separating the data and creating 86,415 data points, I was able to organize it and only take into consideration the much smaller sample set I was looking for. The main difficulty I ran into was figuring out how to organize the data into rows and columns so that I could take advantage of separating them. 

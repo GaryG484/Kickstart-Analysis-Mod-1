@@ -20,8 +20,8 @@
 ## Results
 
 - There are two conclusions I can draw about the Outcomes based on Launch Date:
-  1. May is the best month to start a fundraising campaign on Kickstarter for a drama production. 
-  2. December through March appears to be the worst time to start a fundraising campaign on Kickstarter for a drama production. 
+  - May is the best month to start a fundraising campaign on Kickstarter for a drama production. 
+  - December through March appears to be the worst time to start a fundraising campaign on Kickstarter for a drama production. 
 
 - A conclusion I can make from the Outcomes based on Goals is that the initial funding goal has little to no correlation to the ultimate success or failure of a productions Kickstarter campaign. 
 
